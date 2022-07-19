@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @santiagomontanaro
 - 👀 I’m interested in ... FRONTEND & BACKEND
-- 🌱 I’m currently learning ... HTML, CSS, PHP, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... JS, React, Redux, NodeJs & MongoDB
 
 <!---
 santiagomontanaro/santiagomontanaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
